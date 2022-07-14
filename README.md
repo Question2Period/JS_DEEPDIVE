@@ -4,5 +4,5 @@
 
 <details><summary>2022-07-14</summary>
 </br>
-형변환, 자료형, 연산자, 함수
+    2.8절까지 진행
 </details>
