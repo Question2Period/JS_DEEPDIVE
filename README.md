@@ -15,3 +15,10 @@
     2.11절까지 진행
 
 </details>
+
+<details><summary>2022-07-18</summary>
+</br>
+
+    2장 마무리
+
+</details>
